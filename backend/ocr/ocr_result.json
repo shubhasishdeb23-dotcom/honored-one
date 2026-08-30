@@ -1,0 +1,132 @@
+[
+  {
+    "text": "012345678901",
+    "bbox": [
+      201,
+      156,
+      241,
+      605
+    ],
+    "confidence": 0.9999
+  },
+  {
+    "text": "Consumer Care:",
+    "bbox": [
+      515,
+      155,
+      559,
+      441
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Unit Sale Price: Rs. 240/kg",
+    "bbox": [
+      595,
+      154,
+      648,
+      619
+    ],
+    "confidence": 0.993
+  },
+  {
+    "text": "Country of Origin: India",
+    "bbox": [
+      657,
+      155,
+      705,
+      557
+    ],
+    "confidence": 0.9988
+  },
+  {
+    "text": "Nagar Road, Pune - 411001, Maharashtra",
+    "bbox": [
+      1000,
+      154,
+      1047,
+      873
+    ],
+    "confidence": 0.9972
+  },
+  {
+    "text": "Made by: ABC Foods Pvt Ltd",
+    "bbox": [
+      1062,
+      155,
+      1112,
+      690
+    ],
+    "confidence": 0.9999
+  },
+  {
+    "text": "CRUNCHY OAT COOKIES / 24 PACK",
+    "bbox": [
+      1200,
+      157,
+      1260,
+      1163
+    ],
+    "confidence": 0.9973
+  },
+  {
+    "text": "MRP Rs. 120.00",
+    "bbox": [
+      783,
+      183,
+      834,
+      544
+    ],
+    "confidence": 0.9944
+  },
+  {
+    "text": "NET WT 500 g",
+    "bbox": [
+      893,
+      179,
+      953,
+      493
+    ],
+    "confidence": 0.965
+  },
+  {
+    "text": "LABELGUARDFMCG",
+    "bbox": [
+      1396,
+      174,
+      1439,
+      927
+    ],
+    "confidence": 0.9998
+  },
+  {
+    "text": "from date of packaging",
+    "bbox": [
+      785,
+      905,
+      830,
+      1243
+    ],
+    "confidence": 1.0
+  },
+  {
+    "text": "Best Before: 6 months",
+    "bbox": [
+      846,
+      909,
+      884,
+      1293
+    ],
+    "confidence": 0.9822
+  },
+  {
+    "text": "Mfd: 08/2026",
+    "bbox": [
+      906,
+      909,
+      951,
+      1152
+    ],
+    "confidence": 0.9984
+  }
+]

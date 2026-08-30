@@ -1,0 +1,10 @@
+# Backend / OCR dependencies for LabelGuard AI
+# Install with:  python -m pip install -r requirements.txt
+#
+# NOTE (Windows): install PaddlePaddle itself first with the command in
+# backend/README.md - it isn't listed here because the correct command
+# differs for CPU vs GPU machines.
+
+paddleocr
+opencv-python
+numpy

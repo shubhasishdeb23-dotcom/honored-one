@@ -29,4 +29,8 @@ function __dualiteSourceLoc({ types: t }) {
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  base: '/honored-one/',
+  build: {
+    outDir: 'docs',
+  },
 });
